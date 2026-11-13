@@ -1,0 +1,8 @@
+{
+  "name": "Programación Academica SENA",
+  "description": "Plataforma para consultar la programación por instructor y ficha de caractirización",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
